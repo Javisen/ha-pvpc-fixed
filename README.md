@@ -2,6 +2,10 @@
 
 Este repositorio es un **fix temporal** para la integración de precios horários de electricidad en España (PVPC) de Home Assistant.
 
+> [!IMPORTANT]
+> **LEER ANTES DE INSTALAR**: Para evitar conflictos de entidades, es imprescindible desinstalar cualquier versión previa de la integración PVPC y reiniciar Home Assistant antes de proceder con esta instalación.
+> 
+
 ### 🛠️ ¿Qué incluye este fix?
 - **Corrección de festivos:** Se han actualizado manualmente los calendarios de festivos nacionales para los años **2026, 2027 y 2028**. Esto asegura que la tarifa P3 (Valle) se aplique correctamente durante todo el día en las fechas correspondientes.
 - **Mantenimiento temporal:** Esta versión se mantendrá activa de forma provisional hasta que el desarrollador oficial actualice la integración original o se resuelvan los problemas de descarga de datos.
