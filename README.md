@@ -8,7 +8,7 @@ Este repositorio es un **fix temporal** para la integración de precios horário
 
 ### ⚙️ Instalación
 1. Añade este repositorio como **Repositorio Personalizado** en HACS.
-2. Busca "PVPC Hourly Pricing (Fixed by Javisen)" e instala.
+2. Busca "PVPC fix Javisen)" e instala.
 3. Reinicia Home Assistant.
 
 # PVPC Hourly Pricing (Fixed by Javisen)
@@ -29,7 +29,7 @@ Due to the lack of recent updates in the official integration regarding holiday 
 2. Click on the three dots in the top right corner and select **Custom repositories**.
 3. Paste the following URL: `https://github.com/Javisen/ha-pvpc-fixed`
 4. Select **Integration** as the category and click **Add**.
-5. Find "PVPC Hourly Pricing (Fixed by Javisen)" in the HACS list and click **Download**.
+5. Find "PVPC fix Javisen)" in the HACS list and click **Download**.
 6. **Restart** Home Assistant to apply changes.
 
 ### 📝 Configuration
