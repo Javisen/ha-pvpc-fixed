@@ -1,7 +1,7 @@
 {
   "domain": "pvpc_javisen",
   "name": "PVPC Fix Javisen",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "documentation": "https://github.com/Javisen/ha-pvpc-fixed",
   "issue_tracker": "https://github.com/Javisen/ha-pvpc-fixed/issues",
   "codeowners": ["@Javisen"],
