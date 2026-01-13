@@ -5,6 +5,6 @@
   "documentation": "https://github.com/Javisen/ha-pvpc-fixed",
   "issue_tracker": "https://github.com/Javisen/ha-pvpc-fixed/issues",
   "codeowners": ["@Javisen"],
-  "iot_class": "cloud_polling"
+  "iot_class": "cloud_polling",
   "config_flow": true
 }
