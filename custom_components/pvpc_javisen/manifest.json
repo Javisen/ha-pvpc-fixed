@@ -6,4 +6,5 @@
   "issue_tracker": "https://github.com/Javisen/ha-pvpc-fixed/issues",
   "codeowners": ["@Javisen"],
   "iot_class": "cloud_polling"
+  "config_flow": true
 }
